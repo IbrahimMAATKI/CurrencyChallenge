@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Challenge</string>
+    <string name="currency_converter">Currency Converter</string>
+</resources>
